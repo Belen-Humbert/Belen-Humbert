@@ -43,22 +43,20 @@
     <tr border="none">
       <td width="50%" align="center">
         <h3>📊 Mis estadísticas</h3>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=tu_usuario&theme=dark&show_icons=true&count_private=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Belen-Humbert&theme=dark&show_icons=true&count_private=true" />
         <br></br>
         <h3>🔥 Racha de contribuciones</h3>
-        <img title="🔥 Estadísticas de racha" alt="Racha de contribuciones" src="https://github-readme-streak-stats.herokuapp.com/?user=tu_usuario&theme=dark&hide_border=false" />
+        <img title="🔥 Estadísticas de racha" alt="Racha de contribuciones" src="https://github-readme-streak-stats.herokuapp.com/?user=Belen-Humbert&theme=dark&hide_border=false" />
       </td>
       <td width="50%" align="center">
         <h3>💻 Lenguajes más usados</h3>
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tu_usuario&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Belen-Humbert&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
       </td>
     </tr>
   </table>
   <!--- Estadísticas (Fin) -->
 </p>
 <!--- Estadísticas y Streak (Fin) -->
-
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
