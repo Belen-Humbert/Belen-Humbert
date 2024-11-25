@@ -25,7 +25,7 @@
 
 - ☁️ Me interesa aprender sobre **bases de datos** y estoy explorando nuevas tecnologías.
 
-- 📝 A veces comparto ideas sobre **desarrollo de software** con mis colegas.
+- 📝 Soy profe de **Python** en Kodland, acompañando a adolecentes de 10 a 17 años en sus primeros pasos en el mundo de la programación.
 
 - 💬 Puedes preguntarme sobre **React, Node.js, PHP, Python y optimización de diseño de aplicaciones.**
 
