@@ -19,7 +19,7 @@
 
 
 <!--Intro start-->
-- 🔭 Actualmente estoy trabajando con **React, Java, Node.js y PHP.**
+- 🔭 Actualmente estoy trabajando con **React, Python, Node.js y PHP.**
 
 - 🌱 Estoy aprendiendo sobre **debugging, integración de APIs y desarrollo de aplicaciones escalables.**
 
@@ -27,7 +27,7 @@
 
 - 📝 A veces comparto ideas sobre **desarrollo de software** con mis colegas.
 
-- 💬 Puedes preguntarme sobre **React, Node.js, PHP y optimización de diseño de aplicaciones.**
+- 💬 Puedes preguntarme sobre **React, Node.js, PHP, Python y optimización de diseño de aplicaciones.**
 
 - 📫 Puedes contactarme en **belenhumbert69@gmail.com**
 
