@@ -87,7 +87,7 @@
 </p>
 <p align="center">
   <img alt="SQL Server" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
-  <img alt="SQL Workbench" src="https://img.icons8.com/ios-filled/50/4a90e2/workbench.png" />
+  
 </p>
 
 <h3 align="center">DevOps y Herramientas</h3>
