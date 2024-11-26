@@ -62,22 +62,39 @@
   </ul>
 </div>
 
-<!-- Tech Stack Icons -->
+
+<!-- Tech Stack Categorized -->
 <h2 align="center">Tecnologías que utilizo</h2>
+
+<h3 align="center">Frontend</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,java,py,django,bootstrap,tailwind,express,docker,git,github,mysql,mongodb&perline=6" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&perline=5" />
 </p>
 
-<h3 align="center">Categorías</h3>
-<ul>
-  <li><strong>Frontend:</strong> HTML, CSS, JavaScript, Bootstrap, Tailwind</li>
-  <li><strong>Backend:</strong> Node.js, PHP, Express, Django</li>
-  <li><strong>Lenguajes:</strong> Java, Python</li>
-  <li><strong>Bases de Datos:</strong> MySQL, SQL Server, MongoDB (Mongo Compass), SQL Workbench</li>
-  <li><strong>DevOps y Herramientas:</strong> Docker, Git, GitHub, Postman</li>
-</ul>
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,php,express,django&perline=4" />
+</p>
+
+<h3 align="center">Lenguajes</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,py&perline=2" />
+</p>
+
+<h3 align="center">Bases de Datos</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=2" />
+</p>
+<p align="center">
+  <img alt="SQL Server" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
+  <img alt="SQL Workbench" src="https://img.icons8.com/ios-filled/50/4a90e2/workbench.png" />
+</p>
+
+<h3 align="center">DevOps y Herramientas</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman&perline=4" />
+</p>
+
 
 
 
