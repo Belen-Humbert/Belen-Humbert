@@ -54,7 +54,6 @@
   </table>
   <!--- Estadísticas (Fin) -->
 </p>
-<!--- Estadísticas y Streak (Fin) -->
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -62,12 +61,24 @@
     <summary><h2 style="display: inline-block">Tecnologías que manejo 👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
+
+<!-- Tech Stack Icons -->
+<h2 align="center">Tecnologías que utilizo</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,php,py,django,mysql,git,github,express,bootstrap,tailwind&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,java,py,django,bootstrap,tailwind,express,docker,git,github,mysql,mongodb&perline=6" />
   </a>
 </p>
+
+<h3 align="center">Categorías</h3>
+<ul>
+  <li><strong>Frontend:</strong> HTML, CSS, JavaScript, Bootstrap, Tailwind</li>
+  <li><strong>Backend:</strong> Node.js, PHP, Express, Django</li>
+  <li><strong>Lenguajes:</strong> Java, Python</li>
+  <li><strong>Bases de Datos:</strong> MySQL, SQL Server, MongoDB (Mongo Compass), SQL Workbench</li>
+  <li><strong>DevOps y Herramientas:</strong> Docker, Git, GitHub, Postman</li>
+</ul>
+
 
 
 <!-- Connect with me -->
