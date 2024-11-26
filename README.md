@@ -64,8 +64,6 @@
 
 
 <!-- Tech Stack Categorized -->
-<h2 align="center">Tecnologías que utilizo</h2>
-
 <h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&perline=5" />
@@ -94,8 +92,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,postman&perline=4" />
 </p>
-
-
 
 
 <!-- Connect with me -->
