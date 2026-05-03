@@ -22,9 +22,9 @@
   <img src="https://streak-stats.demolab.com?user=Belen-Humbert&theme=tokyonight&hide_border=true" />
 </p>
 
-## 💻 Lenguajes más usados
+## 💻 Lenguajes principales
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belen-Humbert&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=python,js&perline=2" />
 </p>
 
 ---
