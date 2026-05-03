@@ -5,11 +5,11 @@
 ---
 
 ## 🚀 Sobre mí
-- 🔭 Trabajo con **React, Python, Node.js y PHP**
+- 🔭 Trabajo con **React, Python, Node.js, Express y PHP**
 - 🌱 Aprendiendo **debugging, APIs y apps escalables**
-- ☁️ Explorando el mundo de **bases de datos**
+- ☁️ Explorando **bases de datos y despliegues en la nube**
 - 🧑‍🏫 Profe de **Python** para jóvenes (10–17 años)
-- 💬 Preguntame sobre **React, Node.js, PHP, Python y arquitectura de apps**
+- 💬 Preguntame sobre **React, Node.js, Express, PHP, Python y arquitectura de apps**
 - 📫 **Email:** belenhumbert69@gmail.com  
 - 💼 **LinkedIn:** [Belén Humbert](https://www.linkedin.com/in/bel%C3%A9n-humbert/)
 
@@ -17,14 +17,14 @@
 
 ## 📊 Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Belen-Humbert&theme=tokyonight&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Belen-Humbert&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Belen-Humbert&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Belen-Humbert&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 💻 Lenguajes más usados
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belen-Humbert&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belen-Humbert&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -38,7 +38,7 @@
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,php,express,django&perline=4" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,django&perline=4" />
 </p>
 
 ### 💻 Lenguajes
@@ -48,14 +48,17 @@
 
 ### 🗄️ Bases de datos
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=2" />
-  <br/>
-  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=3" />
 </p>
 
-### 🛠️ Herramientas & DevOps
+### ☁️ Cloud / Deploy
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman&perline=4" />
+  <img src="https://skillicons.dev/icons?i=railway,docker&perline=2" />
+</p>
+
+### 🛠️ Herramientas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman&perline=3" />
 </p>
 
 ---
