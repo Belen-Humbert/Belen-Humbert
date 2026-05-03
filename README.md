@@ -1,117 +1,80 @@
+<!-- HEADER -->
+<h1 align="center">Hola 👋, soy Belén</h1>
+<h3 align="center">💡 Confusion is part of programming</h3>
 
+---
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, Mi nombre es Belén</h1></summary>
-  </ul>
-</div>
+## 🚀 Sobre mí
+- 🔭 Trabajo con **React, Python, Node.js y PHP**
+- 🌱 Aprendiendo **debugging, APIs y apps escalables**
+- ☁️ Explorando el mundo de **bases de datos**
+- 🧑‍🏫 Profe de **Python** para jóvenes (10–17 años)
+- 💬 Preguntame sobre **React, Node.js, PHP, Python y arquitectura de apps**
+- 📫 **Email:** belenhumbert69@gmail.com  
+- 💼 **LinkedIn:** [Belén Humbert](https://www.linkedin.com/in/bel%C3%A9n-humbert/)
 
+---
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-
-
-<!--Intro start-->
-- 🔭 Actualmente estoy trabajando con **React, Python, Node.js y PHP.**
-
-- 🌱 Estoy aprendiendo sobre **debugging, integración de APIs y desarrollo de aplicaciones escalables.**
-
-- ☁️ Me interesa aprender sobre **bases de datos** y estoy explorando nuevas tecnologías.
-
-- 📝 Soy profe de **Python**, acompañando a adolecentes de 10 a 17 años en sus primeros pasos en el mundo de la programación.
-
-- 💬 Puedes preguntarme sobre **React, Node.js, PHP, Python y optimización de diseño de aplicaciones.**
-
-- 📫 Puedes contactarme en **belenhumbert69@gmail.com**
-
-- 🏠 ¡No olvides saludarme en [LinkedIn](https://www.linkedin.com/in/bel%C3%A9n-humbert/)!  
-<!--Intro end-->
-
-
-
-<!--- Estadísticas y Streak (Inicio) -->
+## 📊 Estadísticas
 <p align="center">
-  <!--- Estadísticas (Inicio) -->
-  <table align="center">
-    <tr border="none">
-      <td width="50%" align="center">
-        <h3>📊 Mis estadísticas</h3>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Belen-Humbert&theme=dark&show_icons=true&count_private=true" />
-        <br></br>
-        <h3>🔥 Racha de contribuciones</h3>
-        <img title="🔥 Estadísticas de racha" alt="Racha de contribuciones" src="https://github-readme-streak-stats.herokuapp.com/?user=Belen-Humbert&theme=dark&hide_border=false" />
-      </td>
-      <td width="50%" align="center">
-        <h3>💻 Lenguajes más usados</h3>
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Belen-Humbert&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
-      </td>
-    </tr>
-  </table>
-  <!--- Estadísticas (Fin) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Belen-Humbert&theme=tokyonight&show_icons=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Belen-Humbert&theme=tokyonight" />
 </p>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que manejo 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+## 💻 Lenguajes más usados
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belen-Humbert&layout=compact&theme=tokyonight" />
+</p>
 
+---
 
-<!-- Tech Stack Categorized -->
-<h3 align="center">Frontend</h3>
+## 🧠 Tecnologías
+
+### 🎨 Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&perline=5" />
 </p>
 
-<h3 align="center">Backend</h3>
+### ⚙️ Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,php,express,django&perline=4" />
 </p>
 
-<h3 align="center">Lenguajes</h3>
+### 💻 Lenguajes
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py&perline=2" />
+  <img src="https://skillicons.dev/icons?i=java,python&perline=2" />
 </p>
 
-<h3 align="center">Bases de Datos</h3>
+### 🗄️ Bases de datos
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=2" />
-</p>
-<p align="center">
-  <img alt="SQL Server" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
-  
+  <br/>
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png"/>
 </p>
 
-<h3 align="center">DevOps y Herramientas</h3>
+### 🛠️ Herramientas & DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,postman&perline=4" />
 </p>
 
+---
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Escríbeme 🤝</h2></summary>
-  </ul>
-</div>
-
-<!--Íconos y enlaces-->
+## 🤝 Conectemos
 <p align="center">
-  <a href="https://www.linkedin.com/in/bel%C3%A9n-humbert/" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  <a href="https://www.linkedin.com/in/bel%C3%A9n-humbert/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
-  <a href="mailto:belenhumbert69@gmail.com" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="email" height="50" width="50" />
+  <a href="mailto:belenhumbert69@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
-  <a href="https://wa.me/542617038693" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="whatsapp" height="50" width="50" />
+  <a href="https://wa.me/542617038693">
+    <img src="https://skillicons.dev/icons?i=whatsapp" height="50"/>
   </a>
 </p>
 
+---
+
+<p align="center">
+  ✨ Siempre aprendiendo, siempre construyendo ✨
+</p>
