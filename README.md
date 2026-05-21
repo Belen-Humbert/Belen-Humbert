@@ -13,7 +13,7 @@
 
 Soy **Técnica Superior en Desarrollo de Software** con fuerte experiencia en frontend y backend. Me apasiona construir aplicaciones completamente a medida, pensar en arquitectura y seguir aprendiendo en cada proyecto.
 
-Además fundé **[Sushi Software Studio](https://github.com/Belen-Humbert/Sushi-Software-Studio)** — un estudio de desarrollo donde transformo ideas en soluciones digitales reales, con atención personalizada desde el primer mensaje.
+Además fundé **[Sushi Software Studio](https://sushisoftwarestudio.com.ar/)** — un estudio de desarrollo donde transformo ideas en soluciones digitales reales, con atención personalizada desde el primer mensaje.
 
 - 🏗️ Construyo con **React, Node.js, Express, Python y PHP**
 - ☁️ Despliego en **Railway, Vercel** y gestiono **dominios personalizados**
