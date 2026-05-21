@@ -1,25 +1,23 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5c6d0,100:c9a0dc&height=160&section=header&text=Hola,%20soy%20Belén%20👋&fontSize=38&fontColor=fff&fontAlignY=55&animation=fadeIn" />
-
-### 💡 *Confusion is part of programming*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b3d,25:6b3d7a,50:c47ab0,75:e8a0b0,100:f5c8d0&height=200&section=header&text=Hola,%20soy%20Belén%20👋&fontSize=40&fontColor=fff&fontAlignY=60&animation=fadeIn&desc=Confusion%20is%20part%20of%20programming&descSize=16&descAlignY=78&descFontColor=f5c8d0" />
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+## 🌆 Sobre mí
 
 Soy **Técnica Superior en Desarrollo de Software** con fuerte experiencia en frontend y backend. Me apasiona construir aplicaciones completamente a medida, pensar en arquitectura y seguir aprendiendo en cada proyecto.
 
-Además fundé **[Sushi Software Studio](https://sushisoftwarestudio.com.ar/)** — un estudio de desarrollo donde transformo ideas en soluciones digitales reales, con atención personalizada desde el primer mensaje.
+Además fundé **Sushi Software Studio** — un estudio de desarrollo donde transformo ideas en soluciones digitales reales, con atención personalizada desde el primer mensaje.
 
 - 🏗️ Construyo con **React, Node.js, Express, Python y PHP**
 - ☁️ Despliego en **Railway, Vercel** y gestiono **dominios personalizados**
 - 🗄️ Trabajo con **PostgreSQL, MySQL y MongoDB**
 - 🧑‍🏫 Profe de **Python** para jóvenes (10–17 años)
-- 🍣 Fundadora de **Sushi Software Studio**
+- 🍣 Fundadora de **[Sushi Software Studio](https://sushisoftwarestudio.com.ar/)**
 - 💬 Preguntame sobre **arquitectura de apps, APIs REST, deploy y bases de datos**
 - 📫 **Email:** belenhumbert69@gmail.com
 - 💼 **LinkedIn:** [Belén Humbert](https://www.linkedin.com/in/bel%C3%A9n-humbert/)
@@ -29,13 +27,13 @@ Además fundé **[Sushi Software Studio](https://sushisoftwarestudio.com.ar/)** 
 ## 📊 Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Belen-Humbert&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Belen-Humbert&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&rank_icon=github&bg_color=1a0e2e&title_color=c47ab0&icon_color=e8a0b0&text_color=f5c8d0&border_radius=12" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belen-Humbert&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belen-Humbert&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&bg_color=1a0e2e&title_color=c47ab0&text_color=f5c8d0&border_radius=12" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Belen-Humbert&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Belen-Humbert&theme=tokyonight&hide_border=true&background=1a0e2e&ring=c47ab0&fire=e8a0b0&currStreakLabel=f5c8d0&sideLabels=c47ab0&dates=9d7aaa&border_radius=12" />
 </div>
 
 ---
@@ -71,11 +69,22 @@ Además fundé **[Sushi Software Studio](https://sushisoftwarestudio.com.ar/)** 
 
 ## 🍣 Sushi Software Studio
 
-> Desarrollo de software completamente a medida — sin templates genéricos, con atención personalizada desde el primer mensaje.
+<div align="center">
 
-Servicios: **webs y landing pages · apps a medida · automatizaciones · consultoría técnica**
+```
+  ╔══════════════════════════════════════════════╗
+  ║   Hacemos real lo que imaginás.              ║
+  ║   Webs · Apps · Automatizaciones · AI        ║
+  ╚══════════════════════════════════════════════╝
+```
 
-🔗 [Ver proyecto en GitHub](https://github.com/Belen-Humbert/Sushi-Software-Studio) &nbsp;|&nbsp; 📩 [Contactar](mailto:belenhumbert69@gmail.com)
+**Desarrollo completamente a medida — sin templates, con atención personalizada.**
+
+[![Visitar sitio](https://img.shields.io/badge/🌐%20sushisoftwarestudio.com.ar-2d1b3d?style=for-the-badge&logoColor=f5c8d0)](https://sushisoftwarestudio.com.ar/)
+&nbsp;
+[![Contactar](https://img.shields.io/badge/📩%20Contactar-6b3d7a?style=for-the-badge&logoColor=f5c8d0)](mailto:belenhumbert69@gmail.com)
+
+</div>
 
 ---
 
@@ -98,5 +107,9 @@ Servicios: **webs y landing pages · apps a medida · automatizaciones · consul
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a0dc,100:f5c6d0&height=100&section=footer&animation=fadeIn" />
+
+*✨ Siempre aprendiendo, siempre construyendo ✨*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5c8d0,25:e8a0b0,50:c47ab0,75:6b3d7a,100:2d1b3d&height=120&section=footer&animation=fadeIn" />
+
 </div>
