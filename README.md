@@ -1,8 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b3d,25:6b3d7a,50:c47ab0,75:e8a0b0,100:f5c8d0&height=200&section=header&text=Hola,%20soy%20Belén%20👋&fontSize=40&fontColor=fff&fontAlignY=60&animation=fadeIn&desc=Confusion%20is%20part%20of%20programming&descSize=16&descAlignY=78&descFontColor=f5c8d0" />
-
+  <img src="./header.svg" width="100%" alt="Hola, soy Belén"/>
 </div>
 
 ---
