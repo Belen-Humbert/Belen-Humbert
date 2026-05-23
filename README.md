@@ -69,22 +69,23 @@ Además fundé **Sushi Software Studio** — un estudio de desarrollo donde tran
 
 <div align="center">
 
-```
-  ╔══════════════════════════════════════════════╗
-  ║   Hacemos real lo que imaginás.              ║
-  ║   Webs · Apps · Automatizaciones · AI        ║
-  ╚══════════════════════════════════════════════╝
-```
+<img src="https://img.shields.io/badge/Hacemos_real_lo_que_imaginás-2d1b3d?style=for-the-badge&logoColor=f5c8d0" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+
+<br/><br/>
 
 **Desarrollo completamente a medida — sin templates, con atención personalizada.**
 
-[![Visitar sitio](https://img.shields.io/badge/🌐%20sushisoftwarestudio.com.ar-2d1b3d?style=for-the-badge&logoColor=f5c8d0)](https://sushisoftwarestudio.com.ar/)
-&nbsp;
-[![Contactar](https://img.shields.io/badge/📩%20Contactar-6b3d7a?style=for-the-badge&logoColor=f5c8d0)](mailto:belenhumbert69@gmail.com)
+<br/>
+
+[![Visitar sitio](https://img.shields.io/badge/🌐_sushisoftwarestudio.com.ar-6b3d7a?style=for-the-badge&logoColor=f5c8d0)](https://sushisoftwarestudio.com.ar/)
+&nbsp;&nbsp;
+[![Contactar](https://img.shields.io/badge/📩_Contactar-c47ab0?style=for-the-badge&logoColor=fff)](mailto:belenhumbert69@gmail.com)
 
 </div>
-
----
 
 ## 🤝 Conectemos
 
