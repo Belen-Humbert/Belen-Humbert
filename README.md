@@ -109,6 +109,4 @@ Además fundé **Sushi Software Studio** — un estudio de desarrollo donde tran
 
 *✨ Siempre aprendiendo, siempre construyendo ✨*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5c8d0,25:e8a0b0,50:c47ab0,75:6b3d7a,100:2d1b3d&height=120&section=footer&animation=fadeIn" />
-
 </div>
